@@ -1,0 +1,39 @@
+{
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+    "python.autoComplete.extraPaths": [
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\frozen",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\frozen",
+        ".micropy\\BradenM-micropy-stubs-8960068\\frozen",
+        ".micropy\\BradenM-micropy-stubs-452a204\\frozen",
+        ".micropy\\BradenM-micropy-stubs-d1d6c25\\frozen",
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\stubs",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\stubs",
+        ".micropy\\BradenM-micropy-stubs-8960068\\stubs",
+        ".micropy\\growLED"
+    ],
+    "python.autoComplete.typeshedPaths": [
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\frozen",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\frozen",
+        ".micropy\\BradenM-micropy-stubs-8960068\\frozen",
+        ".micropy\\BradenM-micropy-stubs-452a204\\frozen",
+        ".micropy\\BradenM-micropy-stubs-d1d6c25\\frozen",
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\stubs",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\stubs",
+        ".micropy\\BradenM-micropy-stubs-8960068\\stubs",
+        ".micropy\\growLED"
+    ],
+    "python.analysis.typeshedPaths": [
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\frozen",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\frozen",
+        ".micropy\\BradenM-micropy-stubs-8960068\\frozen",
+        ".micropy\\BradenM-micropy-stubs-452a204\\frozen",
+        ".micropy\\BradenM-micropy-stubs-d1d6c25\\frozen",
+        ".micropy\\BradenM-micropy-stubs-7a7d171\\stubs",
+        ".micropy\\BradenM-micropy-stubs-b3510ed\\stubs",
+        ".micropy\\BradenM-micropy-stubs-8960068\\stubs",
+        ".micropy\\growLED"
+    ],
+    "python.linting.pylintEnabled": true,
+    "mpfshell.open": "ws:192.168.178.110,#lebt"
+}
